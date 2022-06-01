@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HappyChildrenDay/HappyChildrenDay.iml" filepath="$PROJECT_DIR$/HappyChildrenDay/HappyChildrenDay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-UseGitDevelopSpringMVC.iml" filepath="$PROJECT_DIR$/Test-UseGitDevelopSpringMVC.iml" />
+    </modules>
+  </component>
+</project>
